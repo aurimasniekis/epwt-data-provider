@@ -20,7 +20,7 @@
     "epwt/doctrine-data-provider": "Doctrine data provider with automatic subscription to changes"
   },
   "autoload": {
-    "psr-4": { "EPWT\\Cache\\DataProviderBundle": "" }
+    "psr-4": { "EPWT\\Cache\\DataProviderBundle\\": "" }
   },
   "extra": {
     "branch-alias": {
